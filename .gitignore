@@ -1,5 +1,9 @@
 #source video folder
-source_videos/*
+source-videos/
+pose-landmarker/
+bin/
+include/
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

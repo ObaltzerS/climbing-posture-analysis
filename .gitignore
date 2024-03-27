@@ -1,6 +1,5 @@
 #source video folder
-source-videos/
-pose-landmarker/
+content/
 bin/
 include/
 

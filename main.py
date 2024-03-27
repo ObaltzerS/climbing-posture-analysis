@@ -1,4 +1,4 @@
-from interface import Interface
+from classes.interface import Interface
 
 if __name__ == "__main__":
     CLI = Interface()
